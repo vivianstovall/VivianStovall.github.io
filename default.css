@@ -1,0 +1,24 @@
+h1{
+color:violet;
+font-size:18;
+font-family: "Times New Roman", Times, serif;
+}
+
+body{
+    background-color:aqua;
+}
+
+h5{
+    color: #00ffc8;
+    font: size 24;
+}
+
+p{
+    text-indent: 20px;
+}
+
+hr{
+    color: blue;
+    height: 10px;
+    width: 50%;
+}
