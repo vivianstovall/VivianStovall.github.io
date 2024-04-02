@@ -1,0 +1,22 @@
+h1{
+    color:rgb(77, 18, 18);
+    font-size:18;
+    font-family: "Times New Roman", Times, serif;
+    }
+    
+    body{
+        background-color:bisque;
+    }
+    
+    h5{
+        color: #f6efb8;
+        font: size 24;
+    }
+    
+    p{
+        text-indent: 20px;
+    }
+    
+    hr{ color: #e9ef9f;
+    height: 10px;
+width: 50%;>}
