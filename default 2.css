@@ -1,11 +1,18 @@
 h1{
     color:rgb(77, 18, 18);
     font-size:18;
-    font-family: "Times New Roman", Times, serif;
-    }
-    
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: #f9e2e2;
+        padding: 20px;
+}
+   h2{color:rgb(77, 18, 18);
+    font-size:18;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: #feeeee;
+        padding: 20px;}
     body{
         background-color:bisque;
+        
     }
     
     h5{
@@ -15,6 +22,9 @@ h1{
     
     p{
         text-indent: 20px;
+        background-color: #fbe3e3;
+        padding: 20px;
+
     }
     
     hr{ color: #e9ef9f;
