@@ -1,0 +1,143 @@
+
+
+#header1{
+    position: absolute;top:0px;left: 380px;
+    color:white;
+    font-size: 50px;
+}
+
+#map{
+    position: absolute;top:855px; left:195px;
+    background-color: aliceblue;
+    padding:54px ;
+    
+}
+
+#summary{
+    position: absolute;top: 1847px; left:195px;
+    color:white;
+    font-size: 18px; 
+    background-color:rgb(2, 33, 81);
+    padding:65px ;
+}
+
+#linkone{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:195px;
+    background-color: aliceblue;
+    padding: 20px;
+    border-style:double 
+}
+
+#linktwo{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:295px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linkthree{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:398px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linkfour{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:609px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linkfive{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:703px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linksix{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:799px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linkseven{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:973px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+
+#linkeight{
+    color: aliceblue;
+    font-size: 15px;
+    position:absolute;top:205px;left:1153px;
+    background-color: aliceblue;
+    padding:20px;
+    border-style:double
+}
+#bostonlogo{
+    position: absolute;top:1247px; left:195px;
+    background-color: aliceblue;
+    
+      
+}
+
+#generalinfo{
+position: absolute;top:275px; left:195px;
+background-color: aliceblue;
+color:black;
+font-size: 15px; 
+padding:54.5px ;
+}
+
+#generallines{
+    position: absolute;top:859px; left:721.5px;
+    background-color: aliceblue;
+    color:black;
+    font-size: 15px; 
+    padding:20px ;
+    }
+#onehundred{
+    position: absolute;top:477px; left:195px;
+    background-color: rgb(2, 33, 81);
+    color:white;
+    font-size: 20px; 
+    padding:60px ;
+}
+
+#onehundredimage{
+position: absolute;top:477px; left:715px;   
+}
+
+#readmore{
+    position: absolute;top:730px; left:410px;
+    background-color:aliceblue;
+    font-size: 15px; 
+    color:rgb(2, 58, 104);
+    padding:3px ;
+}
+hero-image{
+    border:2px snow
+}
+
+body{
+    background-image: url(boston.png);
+        
+    }
